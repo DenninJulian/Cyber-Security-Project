@@ -1,4 +1,4 @@
-# Project: Analyzing Network Traffic and Intrusions on Linux
+# Analyzing Network Traffic and Intrusions on Linux
 
 ## Introduction
 Network traffic analysis is a crucial aspect of forensic investigations, providing insights into potential intrusions and malicious activities. This project will guide you through the process of capturing, analyzing, and interpreting network traffic on a Linux system. You will learn how to use various tools and techniques to detect and analyze network intrusions.
